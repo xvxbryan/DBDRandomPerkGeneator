@@ -1,0 +1,21 @@
+.GeneratePerks button{
+    background-color: black;
+    border: none;
+    color: red;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    font-weight: bold;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.GeneratePerks button:hover {
+    background-color: gray;
+}
+
+.GeneratePerks button:active{
+    background-color: red;
+    color: black;
+}

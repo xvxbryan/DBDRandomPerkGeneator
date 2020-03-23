@@ -1,0 +1,1 @@
+This is my first React project. I am creating this strictly for learning purposes. The web app allows users to generate random perks (4 at a time) for the game Dead By Daylight. You can toggle between generating killer perks and survivor perks. You can also reroll an individual perk slot after the initial perk generation.
